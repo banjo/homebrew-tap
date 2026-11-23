@@ -1,6 +1,6 @@
 cask "tjuvkik" do
-  version "0.1.6"
-  sha256 "208b2c618bb87066d3496e0c46e5a2047397f1a60c7bcdb75c9d8a02c621b69f"
+  version "0.1.7"
+  sha256 "1f5cfe954c635cdc234aadca3da20584f48e6a5570ec5b11d3e8e2da97833139"
 
   url "https://github.com/banjo/tjuvkik/releases/download/v#{version}/Tjuvkik-#{version}.zip"
   name "Tjuvkik"
