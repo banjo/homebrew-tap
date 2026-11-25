@@ -1,6 +1,6 @@
 cask "nota" do
-  version "0.1.1"
-  sha256 "37db23c7cf64bcf20b3525ea6d64959dfe131acd5c3ee1d86c547b982cd0844e"
+  version "0.1.3"
+  sha256 "67ba66f5262f38c18f02a964df6b957154c55d0e7ca140727d4b34fe51d5b7b7"
 
   url "https://github.com/banjo/nota/releases/download/v#{version}/Nota-#{version}-arm64.zip"
   name "Nota"
